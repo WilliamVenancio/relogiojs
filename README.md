@@ -5,4 +5,4 @@ Relógio feito com HTML, CSS e JS. Feito para estudar junto da ajuda do vídeo d
 <img src="https://media.discordapp.net/attachments/810216176243441715/1122933292157632662/image.png?width=769&height=434" width="700px">
 
 
-<a href="https://www.youtube.com/watch?v=GK0ok3ZCXwM\">O vídeo</a>
+O<a href="https://www.youtube.com/watch?v=GK0ok3ZCXwM\">vídeo</a>da Larissa ensinado a fazer o relógio.
